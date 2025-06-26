@@ -1,27 +1,27 @@
-# Password Strength Checker 🔒
+# Password Strength Checker
 
 A Python script that validates password strength against multiple criteria.
 
-## Features ✅
+## Features
 - Minimum 8 characters
 - At least one uppercase letter (A-Z)
 - At least one lowercase letter (a-z)
 - At least one digit (0-9)
 
 ## Installation
-```bash
+`bash
 git clone https://github.com/harp-5/Password-strength-checker.git
 cd Password-strength-checker
 python3 password_checker.py
 
-## Usage 🚀
-```bash
+## Usage 
+`bash
 $ python3 password_checker.py
 Enter password: Hello123
-✅ Strong password!
+Strong password!
 
 Enter password: weak  
-❌ Weak: Needs 8+ characters
+Weak: Needs 8+ characters
 
 ## Why It's Valuable
 Demonstrates core security concepts
